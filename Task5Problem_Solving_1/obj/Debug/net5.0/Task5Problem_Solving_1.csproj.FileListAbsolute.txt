@@ -1,0 +1,16 @@
+E:\OrangeTasks\C#-Tasks\Task5Problem_Solving_1\bin\Debug\net5.0\Task5Problem_Solving_1.exe
+E:\OrangeTasks\C#-Tasks\Task5Problem_Solving_1\bin\Debug\net5.0\Task5Problem_Solving_1.deps.json
+E:\OrangeTasks\C#-Tasks\Task5Problem_Solving_1\bin\Debug\net5.0\Task5Problem_Solving_1.runtimeconfig.json
+E:\OrangeTasks\C#-Tasks\Task5Problem_Solving_1\bin\Debug\net5.0\Task5Problem_Solving_1.runtimeconfig.dev.json
+E:\OrangeTasks\C#-Tasks\Task5Problem_Solving_1\bin\Debug\net5.0\Task5Problem_Solving_1.dll
+E:\OrangeTasks\C#-Tasks\Task5Problem_Solving_1\bin\Debug\net5.0\ref\Task5Problem_Solving_1.dll
+E:\OrangeTasks\C#-Tasks\Task5Problem_Solving_1\bin\Debug\net5.0\Task5Problem_Solving_1.pdb
+E:\OrangeTasks\C#-Tasks\Task5Problem_Solving_1\obj\Debug\net5.0\Task5Problem_Solving_1.csproj.AssemblyReference.cache
+E:\OrangeTasks\C#-Tasks\Task5Problem_Solving_1\obj\Debug\net5.0\Task5Problem_Solving_1.GeneratedMSBuildEditorConfig.editorconfig
+E:\OrangeTasks\C#-Tasks\Task5Problem_Solving_1\obj\Debug\net5.0\Task5Problem_Solving_1.AssemblyInfoInputs.cache
+E:\OrangeTasks\C#-Tasks\Task5Problem_Solving_1\obj\Debug\net5.0\Task5Problem_Solving_1.AssemblyInfo.cs
+E:\OrangeTasks\C#-Tasks\Task5Problem_Solving_1\obj\Debug\net5.0\Task5Problem_Solving_1.csproj.CoreCompileInputs.cache
+E:\OrangeTasks\C#-Tasks\Task5Problem_Solving_1\obj\Debug\net5.0\Task5Problem_Solving_1.dll
+E:\OrangeTasks\C#-Tasks\Task5Problem_Solving_1\obj\Debug\net5.0\ref\Task5Problem_Solving_1.dll
+E:\OrangeTasks\C#-Tasks\Task5Problem_Solving_1\obj\Debug\net5.0\Task5Problem_Solving_1.pdb
+E:\OrangeTasks\C#-Tasks\Task5Problem_Solving_1\obj\Debug\net5.0\Task5Problem_Solving_1.genruntimeconfig.cache
